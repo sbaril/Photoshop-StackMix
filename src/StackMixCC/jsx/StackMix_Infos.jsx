@@ -1,0 +1,1 @@
+﻿#target photoshopalert('How to Automate Loading Image Files into a single Smart Object \nYou can use a default Photoshop Script to load Image Files into a Layers Stack inside a Single Photoshop File and then check the options Auto-Align Layers (if needed) and Convert to Smart Object. \n\n--------\n\nChoose: File > Scripts > Load Files into Stack…');
